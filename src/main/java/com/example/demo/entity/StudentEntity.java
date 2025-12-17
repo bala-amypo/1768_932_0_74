@@ -1,3 +1,13 @@
+to me
+
+
+---------- Forwarded message ---------
+From: 727824TUCS456 VISWA M S <727824TUCS456@skct.edu.in>
+Date: Wed, Dec 17, 2025 at 11:36 AM
+Subject:
+To: <727824tucs458@skct.edu.in>, <727824tucs414@skct.edu.in>
+
+
 package com.example.demo.entity;
 
 import jakarta.persistence.Entity;
